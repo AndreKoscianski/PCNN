@@ -24,3 +24,4 @@ python3 surf.py output1.csv
 
 ./opt2
 python3 surf.py output2.csv
+
